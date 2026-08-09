@@ -11,7 +11,7 @@
 - 🔭 **Sedang mengerjakan:** Proyek-proyek menarik & eksplorasi teknologi baru.
 - 🌱 **Sedang mempelajari:** Web Development, Cloud, & Software Engineering.
 - 💼 **Portofolio & Pencapaian:** Lihat daftar *repository* saya di bawah untuk melihat karya saya!
-- 📫 **Hubungi saya:** [Email Saya](mailto:email-anda@gmail.com) | [LinkedIn](https://linkedin.com/in/username-anda)
+- 📫 **Hubungi saya:** [Email Saya](mailto: tehplastik1532@gmail.com)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 🏆 Pencapaian & Sertifikat
 
-<!-- Gantilah 'sertifikat-1.jpg' dengan nama file gambar pencapaian yang sudah disimpan di repo -->
+<!-- Gantilah nama file di bawah sesuai dengan nama foto pencapaian yang kamu upload ke repo DUCKTys ini -->
 <p align="center">
   <img src="sertifikat-1.jpg" alt="Pencapaian Saya" width="45%" />
   <img src="sertifikat-2.jpg" alt="Sertifikat Saya" width="45%" />
