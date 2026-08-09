@@ -27,25 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats & Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DUCKTys&theme=onedark&column=4" alt="DUCKTys Trophies" />
-</p>
-
-<br>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DUCKTys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=DUCKTys&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUCKTys&theme=tokyonight" alt="DUCKTys Streak" />
-</p>
-
----
-
 <p align="center">
   <i>"Keep coding and stay curious!"</i> 🚀
 </p>
