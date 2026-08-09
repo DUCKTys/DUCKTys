@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=DUCKTys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="DUCKTys code stats](https://github.com/DUCKTys?tab=repositories)" />
+  <img src="https://github.com/DUCKTys.png" alt="DUCKTys Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
 
 ---
