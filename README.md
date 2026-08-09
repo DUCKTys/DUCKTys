@@ -27,16 +27,6 @@
 
 ---
 
-### 🏆 Pencapaian & Sertifikat
-
-<!-- Gantilah nama file di bawah sesuai dengan nama foto pencapaian yang kamu upload ke repo DUCKTys ini -->
-<p align="center">
-  <img src="sertifikat-1.jpg" alt="Pencapaian Saya" width="45%" />
-  <img src="sertifikat-2.jpg" alt="Sertifikat Saya" width="45%" />
-</p>
-
----
-
 ### 📊 GitHub Stats & Trophy
 
 <p align="center">
