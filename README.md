@@ -31,31 +31,6 @@ I build open-source applications and software solutions focused on usability, cl
 
 ---
 
-### 🔗 公開プロジェクト Public projects shared
-
-Full list open sourced in [https://github.com/DUCKTys?tab=repositories](https://github.com/DUCKTys?tab=repositories)
-
-<table align="center">
-  <tr>
-    <th align="center">Opengraph<br>2022</th>
-    <th align="center">Opengraph<br>2024</th>
-    <th align="center">Opengraph<br>2025</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="duck-og-2022.jpg" alt="Opengraph 2022" width="220"/>
-    </td>
-    <td align="center">
-      <img src="duck-og-2024.jpg" alt="Opengraph 2024" width="220"/>
-    </td>
-    <td align="center">
-      <img src="duck-og-2025.jpg" alt="Opengraph 2025" width="220"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📌 注目のプロジェクト Highlights
 
 <table align="center">
