@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUCKTys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="DUCKTys code stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=DUCKTys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact" alt="DUCKTys code stats](https://github.com/DUCKTys?tab=repositories)" />
 </p>
 
 ---
@@ -28,40 +28,6 @@ I build open-source applications and software solutions focused on usability, cl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-### 📌 注目のプロジェクト Highlights
-
-<table align="center">
-  <tr>
-    <th>Projects</th>
-    <th>Stars</th>
-    <th>Forks</th>
-  </tr>
-  <tr>
-    <td>
-      **[DUCKTys Profile](https://github.com/DUCKTys/DUCKTys)**: 🦆 Personal GitHub README profile dashboard with dynamic stats and project showcases.
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/DUCKTys/DUCKTys?style=flat-square&color=ffd700&label=" alt="Stars" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/forks/DUCKTys/DUCKTys?style=flat-square&color=87ceeb&label=" alt="Forks" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      **[Featured Project](https://github.com/DUCKTys?tab=repositories)**: 🚀 Check out my latest repositories and open-source contributions.
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/stars-latest-gold?style=flat-square" alt="Stars" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/forks-latest-skyblue?style=flat-square" alt="Forks" />
-    </td>
-  </tr>
-</table>
 
 ---
 
