@@ -18,7 +18,7 @@ window.NAO_MD_CONFIG = {
       size: "Belum diatur",
       description:
         "Build native Nao MD. Isi downloadUrl dengan lokasi APK sebelum dipublikasikan.",
-      downloadUrl: "",
+      downloadUrl: "sha256:9957dce72be87cecad6ac7a7f82e81deb86fd16a9b58773a7176fa11f83fcc1b",
       changelogUrl: ""
     }
   ],
