@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080A10">
+  <meta name="description" content="Nao MD — official download website">
+  <link rel="icon" type="image/png" href="assets/nao_nao_mark.png">
+  <title>Nao MD · Download</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar shell">
+    <a class="brand" href="#home">
+      <span class="brand-mark"><img src="assets/nao_nao_mark.png" alt="Nao MD"></span>
+      <span><strong>Nao MD</strong><small>CORE UTILITY SYSTEM</small></span>
+    </a>
+    <span class="status"><i></i> Open source</span>
+  </header>
+
+  <main>
+    <section id="home" class="hero shell section">
+      <div class="hero-copy">
+        <div class="eyebrow" id="eyebrow"></div>
+        <h1>Simple tools.<br><span>One Nao.</span></h1>
+        <p id="tagline" class="lead"></p>
+        <p id="description" class="body-copy"></p>
+        <div class="hero-actions">
+          <a class="button primary" href="#download">Download Nao MD <span>↓</span></a>
+          <a class="button secondary" id="githubHero" target="_blank" rel="noopener">GitHub <span>↗</span></a>
+        </div>
+        <div class="hero-meta">
+          <span><b id="latestVersion">—</b> latest build</span>
+          <span>Android</span>
+          <span>Rounded native UI</span>
+        </div>
+      </div>
+      <div class="hero-art">
+        <div class="art-glow"></div>
+        <img class="orbit-art" src="assets/nao_orbit.png" alt="" aria-hidden="true">
+        <div class="icon-orbit">
+          <span class="orbit-dot dot-a"></span><span class="orbit-dot dot-b"></span><span class="orbit-dot dot-c"></span>
+          <img src="assets/nao_nao_mark.png" alt="Nao MD">
+        </div>
+        <div class="floating-chip chip-media">MEDIA</div>
+        <div class="floating-chip chip-tools">TOOLS</div>
+      </div>
+    </section>
+
+    <section id="app" class="shell section">
+      <div class="section-heading">
+        <div><div class="eyebrow">THE APP</div><h2>Nao MD, in a few words.</h2></div>
+        <p>Desain mengikuti visual native Nao MD: dark surfaces, violet accent, pill controls, floating elements, dan sudut lembut.</p>
+      </div>
+      <div id="features" class="feature-grid"></div>
+      <div class="about-card">
+        <div class="about-icon"><img src="assets/nao_nao_mark.png" alt=""></div>
+        <div>
+          <span class="mini-label">WHAT IS NAO MD?</span>
+          <h3>Utility app untuk workflow media sehari-hari.</h3>
+          <p>Nao MD menyatukan beberapa workspace media dalam satu aplikasi Android. Fokusnya adalah workflow yang ringan, konsisten, dan mudah digunakan.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="download" class="shell section">
+      <div class="section-heading">
+        <div><div class="eyebrow">DOWNLOAD</div><h2>Choose your build.</h2></div>
+        <p>Semua versi dan link APK diatur dari <code>config.js</code>.</p>
+      </div>
+      <div id="releases" class="release-list"></div>
+      <div class="release-note"><span>i</span><p>Isi <code>downloadUrl</code> dengan URL APK atau file seperti <code>/downloads/NAO-MD-v2.0.0.apk</code>.</p></div>
+    </section>
+
+    <section id="credits" class="shell section">
+      <div class="section-heading">
+        <div><div class="eyebrow">CREDITS</div><h2>DUCKTys README.</h2></div>
+        <p>README disimpan lokal di server Node.js agar bagian Credits tidak bergantung pada CORS atau API eksternal.</p>
+      </div>
+      <div class="credit-layout">
+        <div class="profile-card">
+          <img src="assets/ducktys_profile.png" alt="DUCKTys profile">
+          <span class="mini-label">DEVELOPER</span>
+          <h3>DUCKTys</h3>
+          <p>Open-source applications and software solutions focused on usability, clean code, and expressive interfaces.</p>
+          <a class="button primary small" id="githubCredit" target="_blank" rel="noopener">Open GitHub <span>↗</span></a>
+        </div>
+        <article class="readme-card">
+          <div class="readme-top"><span>README.md</span><a href="https://github.com/DUCKTys/DUCKTys" target="_blank" rel="noopener">Source ↗</a></div>
+          <div id="readmeContent" class="readme-content"><div class="loading"><span></span> Loading README…</div></div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <nav class="floating-nav">
+    <a class="active" href="#home">Home</a><a href="#app">App</a><a href="#download">Download</a><a href="#credits">Credits</a>
+  </nav>
+
+  <footer class="shell footer"><div><strong>Nao MD</strong> · native-inspired interface.</div><a id="githubFooter" target="_blank" rel="noopener">@DUCKTys ↗</a></footer>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
