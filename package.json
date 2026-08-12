@@ -1,0 +1,12 @@
+{
+  "name": "nao-md-download-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nao MD lightweight download website",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
