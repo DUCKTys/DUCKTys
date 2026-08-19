@@ -18,7 +18,7 @@ window.NAO_MD_CONFIG = {
       size: "Belum diatur",
       description:
         "Build native Nao MD. Isi downloadUrl dengan lokasi APK sebelum dipublikasikan.\n\nUpdate Music",
-      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/NAO_MD_V2.9.0/NAO_MD_V2.9.0.apk",
+      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v2.9.0/NAO_MD_V2.9.0.apk",
       changelogUrl: ""
     }
   ],
