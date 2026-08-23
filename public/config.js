@@ -17,7 +17,7 @@ window.NAO_MD_CONFIG = {
       label: "Latest",
       size: "Belum diatur",
       description:
-        "Update sistem Music \n\n Perbaikan Discord aktivitas \n\n Fix fitur downloader",
+        "Update sistem Music, Perbaikan Discord aktivitas, Fix fitur downloader, Fix android 15 kebawah tidak bisa membuka aplikasi/play music",
       downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v3.0.0/NAO_MD-v3.apk",
       changelogUrl: ""
     }
