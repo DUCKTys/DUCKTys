@@ -18,7 +18,7 @@ window.NAO_MD_CONFIG = {
       size: "Belum diatur",
       description:
         "-",
-      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v3.5.1/NAO_MD-v3-5-1.apk",
+      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v3.5.2/NAO_MD_v3-5-2.apk",
       changelogUrl: ""
     }
   ],
