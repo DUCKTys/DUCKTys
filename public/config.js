@@ -13,7 +13,7 @@ window.NAO_MD_CONFIG = {
   // Untuk APK lokal, contoh: "/downloads/NAO-MD-v2.0.0.apk"
   releases: [
     {
-      version: "3.5.1",
+      version: "3.5.2",
       label: "Latest",
       size: "Belum diatur",
       description:
