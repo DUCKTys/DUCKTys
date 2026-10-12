@@ -3,10 +3,6 @@
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/api/feedback",
-      "destination": "/api/feedback"
-    },
-    {
       "source": "/",
       "destination": "/public/index.html"
     },
