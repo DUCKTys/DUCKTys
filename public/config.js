@@ -13,12 +13,11 @@ window.NAO_MD_CONFIG = {
   // Untuk APK lokal, contoh: "/downloads/NAO-MD-v2.0.0.apk"
   releases: [
     {
-      version: "3.5.1",
+      version: "3.6.0",
       label: "Latest",
       size: "Belum diatur",
-      description:
-        "-",
-      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v3.5.1/NAO_MD_v3-5-1.apk",
+      description: "-",
+      downloadUrl: "https://github.com/DUCKTys/DUCKTys/releases/download/v3.6.0/NAO_MD-v3-6-0.apk",
       changelogUrl: ""
     }
   ],
